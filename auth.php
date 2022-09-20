@@ -3,9 +3,9 @@
  * Plugin Name: Leadgenpro API
  * Description: Leadgenpro API is for managing wordpress sites connected with leadgenpro.ca CRM to generate dynamic pages and form. This plugin enables basic authentication for rest API and loads custom templates for pages cretated by leadgenpro.
  * Author: Leadgenpro - INDigital Group
- * Author URI: https://github.com/rrRRohith/wp-leadgenpro
+ * Author URI: https://indigitalgroup.ca
  * Version: 1.1
- * Plugin URI: https://github.com/rrRRohith/
+ * Plugin URI: https://github.com/rrRRohith/wp-leadgenpro
  */
 
 /**
